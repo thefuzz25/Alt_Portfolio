@@ -1,10 +1,10 @@
 ---
 home:
     title: Hi, I'm Faiz
-    subtitle: An Enthusiast cum Student
+    subtitle: A Student cum Artist
     content: >
         I'm a second year student at FIITJEE Junior College, Hyd.
-        Currently studing PCM, but also with a pinch of soccer and a drizzle of fine art.
+        Currently studing PCM, but also with a pinch of soccer and a drizzle of fine art n sketching.
         This website is currently a work-in-progress. Please ignore any incomp
     # button: Click Me!
 
@@ -21,11 +21,11 @@ about:
         -
             number: 7
             line1: Blog
-            line2: Posts
+            line2: Posts yet
         -
             number: 9
             line1: Institutes
-            line2: Studied in
+            line2: Been thru
     button: Check Out My Resume
 
 # skills:
@@ -67,15 +67,15 @@ qualifications:
         icon: uil-graduation-cap
         points:
         -
-            title: Higher Secondary School Education
+            title: Higher Secondary School Certificate
             subtitle: FIITJEE Junior College, Hyderabad
             dates: August, 2021 - Present
         -
-            title: Secondary School Education
+            title: Secondary School Certificate
             subtitle: Army Public School, Bolarum
             dates: July, 2019 - June, 2021
         -
-            title: Middle School Education
+            title: Middle School Certificate
             subtitle: OP Jindal Modern School, Hisar
             dates: July, 2016 - June, 2019
     -
@@ -83,13 +83,13 @@ qualifications:
         icon: uil-briefcase-alt
         points:
         -
-            title: Salesforce
-            subtitle: SWE Contractor
-            dates: October, 2021 - Present
+            title: Lorem ipsum
+            subtitle: Dolor sit amet
+            dates: TBD
         -
-            title: Salesforce
-            subtitle: SWE Summer Intern
-            dates: June, 2021 - July, 2021
+            title: Lorem ipsum
+            subtitle: Dolor sit amet
+            dates: TBD
 
 blog:
     title: Blog
