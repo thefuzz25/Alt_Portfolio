@@ -9,8 +9,8 @@ home:
     # button: Click Me!
 
 about:
-    title: About Me
-    subtitle: Because I like talking about myself
+    title: About
+    subtitle: For the curious,
     content: >
         I'm currently working on my undergraduate thesis on Peer-to-peer trading systems through Smart Contracts on Blockchain
     stats:
