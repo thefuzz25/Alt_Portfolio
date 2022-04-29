@@ -9,7 +9,7 @@ home:
     # button: Click Me!
 
 about:
-    title: About
+    title: About Me
     subtitle: For the curious,
     content: >
         My stage name is TheFuzz, and I love creating things. Things that make me happy.
@@ -21,17 +21,17 @@ And I am an eager learner... and I find *everything* interesting...
 There is no end to learning something new, something that might just gets my mojo *sky high* and has me leaping out of my bed with another idea!
     stats:
         -
-            number: 1
-            line1: Year of
-            line2: Experience
+            number: 17
+            line1: Years of
+            line2: Age
         -
-            number: 1
-            line1: Follower 
-            line2: on Github
+            number: 7
+            line1: Blog
+            line2: Posts
         -
-            number: 1 
-            line1: Hackathon
-            line2: Win
+            number: 9
+            line1: Schools
+            line2: Undergone
     button: Check Out My Resume
 
 # skills:
