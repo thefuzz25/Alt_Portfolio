@@ -3,8 +3,8 @@ home:
     title: Hi, I'm Faiz
     subtitle: An Enthusiast cum Student
     content: >
-        I'm a second year student at FIITJEE Narayanguda, Hyd.
-        Currently studing PCM with a pinch of novels and a sniff of art.
+        I'm a second year student at FIITJEE Junior College, Hyd.
+        Currently studing PCM, but also with a pinch of soccer and a drizzle of fine art.
         This website is currently a work-in-progress. Please ignore any incomp
     # button: Click Me!
 
@@ -67,17 +67,17 @@ qualifications:
         icon: uil-graduation-cap
         points:
         -
-            title: B.E. Electronics & Instrumentation Engg.
-            subtitle: Birla Institute of Technology & Science, Pilani
-            dates: August, 2018 - July, 2022
+            title: Higher Secondary School Education
+            subtitle: FIITJEE Junior College, Hyderabad
+            dates: August, 2021 - Present
         -
-            title: Higher Secondary School Certificate
-            subtitle: Delhi Public School, Greater Noida
-            dates: July, 2015 - June, 2017
+            title: Secondary School Education
+            subtitle: Army Public School, Bolarum
+            dates: July, 2019 - June, 2021
         -
-            title: Secondary School Certificate
-            subtitle: Delhi Public School, Greater Noida
-            dates: July, 2013 - June, 2015
+            title: Middle School Education
+            subtitle: OP Jindal Modern School, Hisar
+            dates: July, 2016 - June, 2019
     -
         title: Work
         icon: uil-briefcase-alt
