@@ -1,0 +1,119 @@
+---
+home:
+    title: Hi, I'm Hamza
+    subtitle: A Software Developer
+    content: >
+        I'm a final year undergrad at BITS Pilani, India.
+        Currently exploring everything from WebDev to Blockchain.
+        This website is currently a work-in-progress. Please ignore any incomp
+    # button: Click Me!
+
+about:
+    title: About Me
+    subtitle: Because I like talking about myself
+    content: >
+        I'm currently working on my undergraduate thesis on Peer-to-peer trading systems through Smart Contracts on Blockchain
+    stats:
+        -
+            number: 1
+            line1: Year of
+            line2: Experience
+        -
+            number: 1
+            line1: Follower 
+            line2: on Github
+        -
+            number: 1 
+            line1: Hackathon
+            line2: Win
+    button: Check Out My Resume
+
+# skills:
+#     title: Skills
+#     subtitle: I'm good at these things
+
+skills-list:
+    title: Skills
+    subtitle: I'm good at these things
+    topics:
+        Languages:
+            - Python
+            - C
+            - C++
+            - Java
+            - Go
+        ML Frameworks:
+            - PyTorch
+            - Tensorflow & Keras
+            - NumPy
+            - Pandas
+            - MatPlotLib
+            - OpenCV
+        Web Frameworks:
+            - Flask
+            - Jekyll & Liquid
+        Tools:
+            - Bash
+            - Git & Github
+            - Docker
+            - Postman
+
+qualifications:
+    title: Qualifications
+    subtitle: Where I've Been / Where I Am
+    tabs:
+    -
+        title: Education
+        icon: uil-graduation-cap
+        points:
+        -
+            title: B.E. Electronics & Instrumentation Engg.
+            subtitle: Birla Institute of Technology & Science, Pilani
+            dates: August, 2018 - July, 2022
+        -
+            title: Higher Secondary School Certificate
+            subtitle: Delhi Public School, Greater Noida
+            dates: July, 2015 - June, 2017
+        -
+            title: Secondary School Certificate
+            subtitle: Delhi Public School, Greater Noida
+            dates: July, 2013 - June, 2015
+    -
+        title: Work
+        icon: uil-briefcase-alt
+        points:
+        -
+            title: Salesforce
+            subtitle: SWE Contractor
+            dates: October, 2021 - Present
+        -
+            title: Salesforce
+            subtitle: SWE Summer Intern
+            dates: June, 2021 - July, 2021
+
+blog:
+    title: Blog
+    subtitle: Words by me
+
+# portfolio:
+#     title: Portfolio
+#     subtitle: Most Recent Work
+#     projects:
+#     -
+#         title: Project 1
+#         description: Description 1
+#         image: portfolio1.jpg
+#         button: Clicky!
+#     -
+#         title: Project 2
+#         description: Description 2
+#         image: portfolio2.jpg
+#         button: Check it out!
+#     -
+#         title: Project 3
+#         description: Description 3
+#         image: portfolio3.jpg
+#         button: Yolo
+     
+---
+
