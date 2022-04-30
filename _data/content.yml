@@ -38,10 +38,8 @@ skills-list:
     topics:
         Languages:
             - Python
-            - C
-            - C++
-            - Java
-            - Go
+            - Latex
+
         ML Frameworks:
             - PyTorch
             - Tensorflow & Keras
