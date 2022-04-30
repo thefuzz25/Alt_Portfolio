@@ -9,13 +9,11 @@ In ‘before-times,’ we all had our life-anchoring routines. The pandemic chan
 
 Out of necessity, we tried new things, self-evaluated ourselves, dabbled in stuff, even risked a little failure here and there. We got seriously into self-care, moving more, meditating more. We went outside and connected with the natural world. We focused more on reducing stress, feeling gratitude, getting more rest.
 
-In short, **we all suddenly had a lot of time on our hands**, so we *thought* and *self-reflected*. As the pandemic untethered us from our normal rhythms, it also put us in some sort of an ‘identity crisis’ (cause we don’t really self-scrutinise that often, lol). 
+In short, **we all suddenly had a lot of time on our hands**, so we *thought* and *self-reflected*. As the pandemic untethered us from our normal rhythms, it also put us in some sort of an ‘identity crisis’ 🥸 (cause we don’t really self-scrutinise that often, lol). 
 
 But, that was 2020. One year on, as we prepare to face normalcy once again, the natural question that pops up in our minds is— 
 
 “Who am I, who should I be in office, at home, with friends; what is the label that I can label myself with, and which part of my character to conceal, which to lay bare?”
-
----
 
 ### Thinking about our identity less in terms of one-off labels.
 
