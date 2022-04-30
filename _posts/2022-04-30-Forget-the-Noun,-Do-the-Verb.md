@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Summer at Salesforce
+title: Forget the Noun, Do the Verb
 thumbnail: salesforce-sf.jpeg
 ---
 ### Who am I?
