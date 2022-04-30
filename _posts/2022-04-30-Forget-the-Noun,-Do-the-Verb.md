@@ -22,7 +22,7 @@ In 2010, Stephen Fry was interviewed by 14-year-old Eden Parris in an intervie
 > “Oscar Wilde said that if you know what you want to be, then you inevitably become it – that is your punishment, but **if you never know, then you can be anything**. There is a truth to that. We are not nouns, we are verbs. I am not a *thing* – an actor, a writer – I am a person who *does* things – I write, I act – and I never know what I am going to do next. I think you can be imprisoned if you think of yourself as a noun.”
 > 
 
-So many people think you have to first call yourself (say) an artist 👩‍🎨, know who you are and what you’re about, and *then* only you can start making art. No, no, no. You do the stuff first, then you can worry about what it is, who you are. The important thing is *the practice*. The doing. The verb.
+So many people think you have to first call yourself (say) an artist 👩‍🎨, know who you are and what you’re about, and *then* only you can start making art. No, no, no. You do the stuff first, then you can worry about what it is, who you are. The important thing is 'the practice'. The doing. The verb.
 
 Because you know; we are made up of multitudes and we should embrace that, rather than sort of confining ourselves to a particular label 🏷. 
 
