@@ -13,14 +13,11 @@ In short, **we all suddenly had a lot of time on our hands**, so we *thought* an
 
 But, that was 2020. One year on, as we prepare to face normalcy once again, the natural question that pops up in our minds is— 
 
-<aside>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a6b632f-2326-4f3c-8a88-2af0991dad5c/D520F0F6-9EF4-4D1F-8620-76C22FDCBF80.png" alt="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a6b632f-2326-4f3c-8a88-2af0991dad5c/D520F0F6-9EF4-4D1F-8620-76C22FDCBF80.png" width="40px" /> “Who am I, who should I be in office, at home, with friends; what is the label that I can label myself with, and which part of my character to conceal, which to lay bare?”
-
-</aside>
+“Who am I, who should I be in office, at home, with friends; what is the label that I can label myself with, and which part of my character to conceal, which to lay bare?”
 
 ---
 
-### Thinking about our identity, less in terms of one-off labels.
+### Thinking about our identity less in terms of one-off labels.
 
 In 2010, Stephen Fry was interviewed by 14-year-old Eden Parris in an interview for *Radio Times,* whom he told,
 
