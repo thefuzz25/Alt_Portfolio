@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Forget the Noun, Do the Verb
-thumbnail: salesforce-sf.jpeg
+thumbnail: Forget-the-Noun,-Do-the-Verb.jpg
 ---
 ### Who am I?
 
