@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: Forget the Noun, Do the Verb
 thumbnail: Forget-the-Noun,-Do-the-Verb.jpg
 ---
