@@ -8,15 +8,10 @@
             <div>
                 <i class="uil blog__icon"></i>
                 <h3 class="blog__title">{{ post.title }}</h3>
-                {% if {%- assign date_format =  "%b %-d, %Y" -%} %}
+                {%- assign date_format =  "%b %-d, %Y" -%}
                 <p><time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
                     {{ post.date | date: date_format }}
                 </time></p>
-                {% else %}
-                <p><time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
-                    {{ post.date | date: "-" }}
-                </time></p>
-                {% endif %}
                 <a href="{{ post.url }}" class="button button-flex button--link">Read &rarr;</a>
            </div>
         </div>
