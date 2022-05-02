@@ -3,16 +3,16 @@
     <span class="section__subtitle">{{ site.data.content.art.subtitle}}</span>
 
     <div class="art__container container grid">
-        {% for post in site.posts limit: 5 %}
+        {% for apost in site.aposts limit: 5 %}
         <div class="art__content">
             <div>
                 <i class="uil art__icon"></i>
-                <h3 class="art__title">{{ post.title }}</h3>
+                <h3 class="art__title">{{ apost.title }}</h3>
                 {%- assign date_format =  "%b %-d, %Y" -%}
-                <p><time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
-                    {{ post.date | date: date_format }}
+                <p><time class="dt-published" datetime="{{ apost.date | date_to_xmlschema }}" itemprop="datePublished">
+                    {{ apost.date | date: date_format }}
                 </time></p>
-                <a href="{{ post.url }}" class="button button-flex button--link">Read &rarr;</a>
+                <a href="{{ apost.url }}" class="button button-flex button--link">Read &rarr;</a>
            </div>
         </div>
         {% endfor %}
