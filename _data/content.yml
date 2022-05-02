@@ -1,16 +1,16 @@
 ---
 home:
     title: Hi, I'm Faiz
-    subtitle: A Student cum Artist
+    subtitle: A Student-cum-Creator
     content: >
         I'm a second year student at FIITJEE Junior College, Hyd.
-        Currently studing PCM, but also with a pinch of soccer and a drizzle of fine art n sketching.
+        Currently studing PCM, but also with a bit of coding and all things creative.
         This website is currently a work-in-progress. Please ignore any incomp
     # button: Click Me!
 
 about:
     title: About Me
-    subtitle: For the curious,
+    subtitle: For the curious
     content: >
         Faiz Zaidi is an IIT aspirant and amateur artist who’s work flirts with both sketches and words. When not behind a desk, he’s an avid reader and athlete. 
     stats:
@@ -58,7 +58,7 @@ skills-list:
 
 qualifications:
     title: Qualifications
-    subtitle: Where I've Been / Where I Am
+    subtitle: Where I've Been / What I've Done
     tabs:
     -
         title: Education
@@ -77,7 +77,7 @@ qualifications:
             subtitle: OP Jindal Modern School, Hisar
             dates: July, 2016 - June, 2019
     -
-        title: Work
+        title: Logbook
         icon: uil-briefcase-alt
         points:
         -
@@ -92,7 +92,8 @@ qualifications:
 blog:
     title: Blog
     subtitle: Words by me
-
+    
+    button: Check Out The Blog
 # portfolio:
 #     title: Portfolio
 #     subtitle: Most Recent Work
