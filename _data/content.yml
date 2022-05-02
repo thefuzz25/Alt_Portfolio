@@ -38,23 +38,21 @@ skills-list:
     topics:
         Languages:
             - Python
+            - HTML/CSS
             - Latex
-
-        ML Frameworks:
-            - PyTorch
-            - Tensorflow & Keras
-            - NumPy
-            - Pandas
-            - MatPlotLib
-            - OpenCV
         Web Frameworks:
             - Flask
             - Jekyll & Liquid
+        Art Media:
+            - Pencil sketching
+            - Charcoal drawing
+            - Doodle art
+            - Digital Art
         Tools:
-            - Bash
-            - Git & Github
-            - Docker
-            - Postman
+            - Procreate
+            - Autodesk Sketchbook
+            - Git & GitHub
+            - Lightroom
 
 qualifications:
     title: Qualifications
