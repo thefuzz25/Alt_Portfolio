@@ -54,8 +54,8 @@ skills-list:
             - Git & GitHub
             - Lightroom
 
-timeline:
-    title: Qualifications
+qualifications:
+    title: Timeline
     subtitle: Where I've Been / What I've Done
     tabs:
     -
