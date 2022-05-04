@@ -1,0 +1,44 @@
+---
+art:
+
+portfolio:
+     title: Paintings
+     subtitle: Life is in Colour
+     projects:
+     -
+         title: Project 1
+         description: Description 1
+         image: portfolio1.jpg
+         button: Clicky!
+     -
+         title: Project 2
+         description: Description 2
+         image: portfolio2.jpg
+         button: Check it out!
+     -
+         title: Project 3
+         description: Description 3
+         image: portfolio3.jpg
+         button: Yolo
+     
+portfolio:
+     title: Charcoal
+     subtitle: But Black & White is more realistic
+     projects:
+     -
+         title: Project 1
+         description: Description 1
+         image: portfolio1.jpg
+         button: Clicky!
+     -
+         title: Project 2
+         description: Description 2
+         image: portfolio2.jpg
+         button: Check it out!
+     -
+         title: Project 3
+         description: Description 3
+         image: portfolio3.jpg
+         button: Yolo
+     
+---
