@@ -5,20 +5,6 @@ layout: default
 <section class="art section">
     <h2 class="section__title">Fine Art</h2>
     <span class="section__subtitle">My Works</span>
-    <div class="container__card grid">
-        {% for apost in site.aposts %}
-        <a href="{{ apost.url }}">
-            <div class="card">
-                <div class="card__header">
-                    <img src="{{ site.baseurl }}/assets/thumbnails/{{ apost.thumbnail | default: 'default.jpeg' }}" alt="card__image" class="card__image" width="400">
-                </div>
-                <div class="card__body">
-                    <h3>{{apost.title}}</h3>
-                    <small>{{ apost.date | date_to_string }}</small>
-                    <small>{{ apost.content | truncate:100 }}</small>
-                </div>
-            </div>
-        </a>
-        {% endfor %}
-    </div>
 </section>
+{% include art/home.html %}
+{% if site.data.content.portfolio %}{% include art/portfolio.html %}{% endif %}
