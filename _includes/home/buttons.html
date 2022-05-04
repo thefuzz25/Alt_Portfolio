@@ -1,0 +1,22 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+ <meta charset="utf-8" /> 
+ <title>Buttons</title> 
+ <meta name="viewport" content="width=device-width, initial-scale=1"> 
+</head> 
+<body> 
+ <button id='btn1' type="button" onclick="function1()">Check Out My Resume</button> 
+ <button id='btn2' type="button" onclick="function2()">Check Out the Blog</button> 
+ <script> 
+ function function1() { 
+ <a href="{{ site.baseurl }}/assets/pdf/resume.pdf" target="_blank" class="button button--flex">
+                    {{ site.data.content.about.button }} <i class="uil uil-message button__icon"></i>; 
+ } 
+ function function2() { 
+ <a href="https://thefuzz25.github.io/blog/" target="_blank" class="button button--flex">
+                    {{ site.data.content.blog.button }} <i class="uil uil-message button__icon"></i>;
+ } 
+ </script> 
+</body> 
+</html> 
