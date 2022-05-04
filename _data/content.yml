@@ -26,7 +26,7 @@ about:
             number: 9
             line1: Institutes
             line2: Been thru
-    button: Check Out My Resume
+    btn1: Check Out My Resume
 
 # skills:
 #     title: Skills
@@ -90,7 +90,7 @@ qualifications:
 blog:
     title: Blog
     subtitle: Words by me
-    button: Check Out The Blog
+    btn2: Check Out The Blog
 # portfolio:
 #     title: Portfolio
 #     subtitle: Most Recent Work
